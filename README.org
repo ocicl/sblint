@@ -1,0 +1,9 @@
+* sblint
+
+A linter for Common Lisp source code using SBCL
+
+|---------+-----------------------------------------|
+| source  | git:https://github.com/cxxxr/sblint.git |
+| commit  | 1037296                                 |
+| systems | sblint                                  |
+|---------+-----------------------------------------|
